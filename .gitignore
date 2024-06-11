@@ -1,0 +1,17 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore Python virtual environment
+venv-metal/
+
+dataset/final_data.csv/
+
+# Ignore the model folder and its contents
+model/
+
+# Ignore model files
+*.pkl
