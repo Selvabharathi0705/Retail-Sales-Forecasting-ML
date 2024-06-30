@@ -1,6 +1,6 @@
 # Retail-Sales-Forecasting-ML
 ## Overview
-This project focuses on forecasting Walmart sales using various machine learning and deep learning techniques. The dataset used for this analysis is sourced from the [Walmart Store Sales Forecasting Kaggle Competition.](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) The project employs techniques like data preprocessing, feature engineering, and model building to predict weekly sales.
+This project focuses on forecasting Walmart sales using various machine learning and deep learning techniques. The dataset used for this analysis is sourced from the [Walmart Store Sales Forecasting.](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) The project employs techniques like data preprocessing, feature engineering, and model building to predict weekly sales.
 
 ## Datasets
 - **train.csv:** Contains sales data with attributes such as Store, Dept, Date, Weekly_Sales, and IsHoliday.
